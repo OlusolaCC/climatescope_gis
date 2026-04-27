@@ -1,0 +1,3 @@
+# Created by venv; see https://docs.python.org/3/library/venv.html
+pip install geopandas folium matplotlib pandas jupyter rasterio scikit-learn
+source venv/bin/activate
