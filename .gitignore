@@ -1,0 +1,4 @@
+data/raw/*.TIF
+data/raw/*.tar
+data/raw/*.zip
+outputs/*.tif
